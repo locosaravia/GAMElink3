@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="celeste500">#d8e5f1</color>
+    <color name="celeste700">#2196f3</color>
+    <color name="celestecu">#2b59a2</color>
+    <color name="celestecun">#1e4072</color>
+    <color name="celesteletras">#467fd7</color>
+    <color name="blancoletras">#FFFFFF</color>
+    <color name="negro">#FF000000</color>
+    <color name="colorAccent">#467fd7</color>
+</resources>

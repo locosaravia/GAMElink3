@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.GAMElink" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- primari colors -->
+        <item name="colorPrimary">@color/celesteletras</item>
+        <item name="colorPrimaryVariant">@color/celesteletras</item>
+        <item name="colorOnPrimary">@color/blancoletras</item>
+        <!-- secondary colors-->
+        <item name="colorSecondary">@color/celestecu</item>
+        <item name="colorSecondaryVariant">@color/celestecun</item>
+        <item name="colorOnSecondary">@color/negro</item>
+        <item name="backgroundColor">@color/celeste500</item>
+
+
+
+    </style>
+
+    <style name="Theme.GAMElink" parent="Base.Theme.GAMElink" />
+</resources>

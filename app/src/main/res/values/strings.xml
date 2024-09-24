@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">GAMElink</string>
+    <string name="user">User:</string>
+    <string name="password">Password:</string>
+    <string name="btnLogin">Login</string>
+    <string name="btnRegister">Register</string>
+    <string name="gameLink">GAMELINK</string>
+    <string name="btnRTS">REAL TIME STRATEGY</string>
+    <string name="btnTBS">TURN BASED STRATEGY</string>
+    <string name="btnFPS">FIRST PERSON SHOOTER</string>
+    <string name="btnTPS">THIRD PERSON SHOOTER</string>
+    <string name="btnBEAR">BEAT´EM UP</string>
+    <string name="btnF">FIGTH</string>
+    <string name="btnSHOOT">SHOOT´EM UP</string>
+    <string name="btnHACK">HACK AND SLASH</string>
+    <string name="btnSPORT">SPORTS</string>
+    <string name="btnSH">SURVIVAL HORROR</string>
+    <string name="btnROL">ROLEPLAY</string>
+    <string name="btnPLATA">PLATAFORM</string>
+    <string name="username">Username:</string>
+    <string name="email">email:</string>
+    <string name="contrasenia">password:</string>
+    <string name="age">age:</string>
+    <string name="Sumbit">sumbit</string>
+    <string name="perfil">profile</string>
+    <string name="config">config</string>
+    <string name="gender">genders</string>
+    <string name="name">locosaravia</string>
+
+
+</resources>
